@@ -1,3 +1,3 @@
 # IML
 
-Introduction to machine learning tasks
+Introduction to machine learning course tasks
